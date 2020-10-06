@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ASSESSMENTS>
+    <STUDENT name="Smith">
+        <MARK theCourse="4BA1">75</MARK>
+        <MARK theCourse="4BA5">99</MARK>
+    </STUDENT>
+</ASSESSMENTS>
